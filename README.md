@@ -23,3 +23,6 @@ Another important aspect of programming is collaboration. Learning how to work w
 
 Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. You can also use these tools to track your progress and adjust your plan as needed. 
  - 来自帮助助手
+
+# 2023-11-21
+- "Keep it simple, stupid!"
