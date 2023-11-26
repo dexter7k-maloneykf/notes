@@ -43,3 +43,6 @@ Second, planning ahead is crucial for success. Think about the bigger picture an
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the importance of designing user-friendly and intuitive software, as well as the ongoing challenge of anticipating and accounting for user errors. It also suggests that programming is not just about writing code, but also about understanding human behavior and psychology. Ultimately, successful programming requires a balance between technical skill and empathy for the end user.
+
+# 2023-11-26
+- "Keep it simple, stupid!"
