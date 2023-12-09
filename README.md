@@ -94,3 +94,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
  其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的错误和更改。使用版本控制系统（如Git）可以帮助你跟踪代码的更改，以便在需要时轻松回滚到之前的版本。
  最后，保持组织。一个整洁、有组织的代码库可以提高你的工作效率，减少错误，并使团队协作变得更加容易。遵循编码规范和风格指南，使用有意义的命名约定，以及将代码分解为可重用的函数和模块，都有助于保持代码的组织。 总之，通过优先处理任务、提前计划和保持有组织，你可以成为一名更有效的程序员，并在编程任务中取得更大的成功。
+
+# 2023-12-09
+- "Keep it simple, stupid!"
