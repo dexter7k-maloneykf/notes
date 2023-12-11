@@ -100,3 +100,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-10
 - "Keep it simple, stupid!"
+
+# 2023-12-11
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you complete the tasks that are most critical to your project or business.
+
+Second, use time management techniques to plan out your day or week. Create a schedule for yourself, dividing your available time into blocks for specific tasks. Allocate time for breaks and downtime, as well, to keep yourself from getting burned out. Following a structured schedule can help to reduce stress and improve your overall work-life balance. 
+ （108个字符）
