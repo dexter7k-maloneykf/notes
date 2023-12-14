@@ -114,3 +114,10 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 # 2023-12-13
 - "Keep it simple, stupid!"
+
+# 2023-12-14
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: When you're working on a project, it'ss important to determine which tasks are most critical and should be completed first. By prioritizing your tasks in this way, you can ensure that you focus on the most important aspects of your project.
+2. Plan ahead: Always plan your day or week ahead of time to ensure you have enough time for all your assignments. Creating a schedule for your workload can help to keep you organized and on track. 
+3. Stay organized: Keeping your workspace and code organized is crucial for efficiency. Using version control systems, such as Git, can helps to manage your code and track changes. Additionally, using project management tools, like Trello or Asana, helps you stay on top of tasks and deadlines.
