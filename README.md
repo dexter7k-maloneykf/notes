@@ -170,3 +170,12 @@ This echoes the principles of clean coding and emphasizes the importance of read
 To be successful in programming, it' s essential to have a deep understanding of the principles and concepts behind programming. That means understanding data structures, algorithms, computer architecture, operating systems, etc. All of these areas will play a role in your programming journey, so it is important to invest time in learning them. 
  - 了解最新的编程技术、工具和编程语言。
 - 要成为编程高手，必须深入了解编程背后的原理和概念。这包括理解数据结构、算法、计算机架构、操作系统等。所有这些领域都会在您的编程旅程中发挥重要作用，因此投入时间学习它们是至关重要的。- 有耐心和毅力，因为编程可能会很困难，需要大量的时间和努力。不要害怕犯错误，而是从错误中学习，不断提高自己的技能。 --- 要有好奇心，对新技术和新的编程方法保持开放的心态。这将帮助您在编程领域保持竞争力。--- 要有一个支持性的社区，与其他程序员建立联系，互相学习和支持。这是一个很好的方式来提高您的技能和知识。
+
+# 2023-12-26
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Learn new programming Languages: Explore different programming langauges, such as Python, JavaScript, or Ruby, to expand your skill set and understanding of various programming methodologies.
+2. Stay up to date with technology: Follow industry news and trends to keep abreast of the newest tools, libraries, and frameworks. This will help ensure that your skills are relevant and applicable to the current job landscape. 
+3. Attend conferences and workshops: Participate in tech conferences, meetups,and workshops to network with other professionals and learn from industry experts. These events can provide valuable insights and new ideas to improve your programming skills.  
+4. Code regularly: Practice makes perfect, so commit to coding regularly to maintain your proficiency and keep your fingers sharp. Try to set a daily or weekly goal to complete a specific task or project to grow your portfolio and improve problem-solving skills
+5. Open source contribution: Contribute to open source projects to gain experience, expandyour skill sets, build a portfolio, develop a sense of ownership, learn how to work with others, improve communication skills, gain exposure to cutting-edge technologies,  and help make the world a better place.
