@@ -179,3 +179,6 @@ To be successful in programming, it' s essential to have a deep understanding of
 3. Attend conferences and workshops: Participate in tech conferences, meetups,and workshops to network with other professionals and learn from industry experts. These events can provide valuable insights and new ideas to improve your programming skills.  
 4. Code regularly: Practice makes perfect, so commit to coding regularly to maintain your proficiency and keep your fingers sharp. Try to set a daily or weekly goal to complete a specific task or project to grow your portfolio and improve problem-solving skills
 5. Open source contribution: Contribute to open source projects to gain experience, expandyour skill sets, build a portfolio, develop a sense of ownership, learn how to work with others, improve communication skills, gain exposure to cutting-edge technologies,  and help make the world a better place.
+
+# 2023-12-27
+- "Keep it simple, stupid!"
