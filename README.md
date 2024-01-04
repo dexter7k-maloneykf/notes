@@ -210,3 +210,6 @@ In essence, keep it simple, structured, and tested – this is today's编程智�
 
 # 2024-01-03
 - "Keep it simple, stupid!"
+
+# 2024-01-04
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that while efficiency is important, optimizing code too early can lead to unnecessary complexity and potential bugs. Instead, focus first on writing clear, maintainable code, and optimize only when profiling reveals genuine bottlenecks. It also emphasizes the importance of understanding trade-offs between code readability and performance, advocating for a balanced approach in software development.
