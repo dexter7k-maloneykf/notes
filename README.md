@@ -300,3 +300,15 @@ Remember to take breaks throughout the day to avoid burnout and to keep your min
 
 # 2024-01-23
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to allow enough time so you don't feel rushed or overwhelmed. Finally, use task management tools and programming languages to stay organised and track your progress. Remember to take breaks and keep your workspace clean, as this will also help with your productivity. By following these tips, you will be able to better manage your workload and achieve your goals more efficiently.
+
+# 2024-01-24
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable and function names that accurately represent their purpose.
+2. Organize code into logical sections and use comments to explain complex or important code. 
+3. Follow coding conventions and standards to ensure consistency and compatibility with other codebases.  
+4. Minimize the use of global variables and instead pass data as arguments where possible.   
+5. Avoid hardcoding values and prefer using constants or environment variables instead.    
+6. Utilize version control systems like Git to track code changes and collaborate with teammates.     
+7. Write tests and utilize unit testing frameworks to verify code functionality and ensure code quality.       
+8. Continuously learn and stay up-do-date with new programming languages, frameworks, libraries, tools, best-practices, etc. to improve your skills and knowledge.
