@@ -381,3 +381,6 @@ This encapsulates the idea that in coding, clarity and conciseness are as import
 8. Practice good coding habits like writing clean, concise, modular, well documented, efficient, secure, robust, maintainable, testable and reusable code.        
 9. Continuously learn and grow your skills by attending workshops and conferences related to your field, reading books and articles on programming, learning new programming language, framework, library, tool, technique, algorithm, data structure, design pattern, coding practice, debugging technique and performance optimization.       
  10. Most importantly, have fun and enjoy learning and creating with code!
+
+# 2024-02-06
+- "Keep it simple, stupid!"
