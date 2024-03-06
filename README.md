@@ -505,3 +505,11 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2024-03-05
 - "Keep it simple, stupid!"
+
+# 2024-03-06
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, programming languages, software engineering principles, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt and thrive in an ever-changing technology landscape. 
+ - 学习新技能。随着技术的发展，需要不断更新自己的技能，以保持竞争力。
+- 多实践。编程是一项实践性很强的技能, 通过不断地练习和实践，可以加深对编程的理解。-
+保持好奇心。对新技术和新方法保持好奇，不断探索，有助于提高自己的编程水平。
