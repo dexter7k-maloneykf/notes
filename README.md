@@ -540,3 +540,8 @@ Next, use tools and resources to help manage your workflow. For example, using v
 - Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This includes understanding the benefits and limitations of different programming paradigms, such as object-oriented programming, functional programming and procedural programming.
 
 To stay ahead of the curve, regularly read industry blogs, follow developers on social media, and attend conferences and workshops. By doing so, you' ll gain valuable insights into new tools and techniques that can improve your programming skills and productivity. Additionally, always be open to trying new things and asking for feedback from your peers. Through this continuous learning process, your understanding of programming will grow, making you a more valuable asset to your team and company.
+
+# 2024-03-13
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, always strive to write clean, concise, and easily understandable code. Remember that someone else (or future you) will read and maintain it. Optimize for readability and maintainability, as complex solutions often lead to bugs and unnecessary complications. Always keep in mind that less code frequently means less room for error." 
+
+"Also, 'Premature optimization is the root of all evil.' — Donald Knuth. Focus on writing correct and clear code first; optimize only when necessary and after profiling. Lastly, 'Code is read much more often than it is written.' Make your code a story that can be followed effortlessly by others."
